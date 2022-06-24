@@ -11,6 +11,7 @@ To get started we have collection some basic shortcuts (in Windows notation):
 * `Esc` - Go back (hit several times and you are back in the editor)
 * `F2` - Follow Symbol under cursor
 * `F4` - Switch between header and source (only useful for c++ code)
+* 'Ctrl+I' - Auto align characters
 
 List of [Qt Creator shortcuts](http://doc.qt.io/qtcreator/creator-keyboard-shortcuts.html) from the documentation.
 
